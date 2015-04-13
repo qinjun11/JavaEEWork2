@@ -1,0 +1,13 @@
+xc,111
+xxx,xxx
+ccc,ccc
+xxxx,xxxx
+xcxx,xxxx
+xcxc,ccc
+aaaa,a
+fff,ff
+xccc,xxxx
+xxxxx,xcxc
+xxxxxxx,xcxc
+xcxcxccc,xcxc
+xccxc,xcxc
